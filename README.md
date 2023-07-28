@@ -1,4 +1,4 @@
-## This readme was written for "microservices-with-MySql-db" article
+## This repo was created for "microservices-with-RDS-MySQL-DB" article
 
 # Distributed version of the Spring PetClinic Sample Application built with Spring Cloud 
 
