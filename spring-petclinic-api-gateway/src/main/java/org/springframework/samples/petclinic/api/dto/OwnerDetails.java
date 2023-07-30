@@ -29,7 +29,7 @@ import static java.util.stream.Collectors.toList;
 @Data
 public class OwnerDetails {
 
-    private int id-number-test;
+    private int id;
 
     private String firstName;
 
